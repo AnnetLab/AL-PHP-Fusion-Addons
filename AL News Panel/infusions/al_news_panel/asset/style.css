@@ -1,0 +1,52 @@
+/* column1-column6 - стили колонок */
+.column1, .column2, .column3 {
+width:30%;
+min-width:200px;
+}
+/* column_spacer - стили для промежутков между колоннами */
+.column_spacer {
+width:20%;
+min-width:30px;
+}
+/* column1_capture-column6_capture - стили для названий колонок */
+.column1_capture {
+font-size: 1.7em;
+color: green;
+weight: bold;
+}
+.column2_capture {
+font-size: 1.7em;
+color: blue;
+weight: bold;
+} 
+.column3_capture {
+font-size: 1.7em;
+color: yellow;
+weight: bold;
+} 
+/* column1_subject-column6_subject - стили названий новостей */
+.column1_subject {
+font-size: 1.3em;
+color: red;
+}
+.column2_subject {
+font-size: 1.3em;
+color: silver;
+} 
+.column3_subject {
+font-size: 1.3em;
+color: green;
+} 
+/* column1_text-column6_text - стили краткого содержания новостей */
+.column1_text, .column2_text, .column3_text {
+text-align: justify;
+margin-top:0px;
+}
+/*
+column1_rss_img-column6_rss_img
+стиль иконки рсс (img)
+*/
+.column1_rss_img {
+height:15px;
+}
+/* column1_link-column6_link - стиль ссылки (тег a)*/

@@ -1,0 +1,18 @@
+#column1, #column2, #column3, #column4, #column5, #column6 {
+	list-style: none;
+	 min-height:20px;
+	 height: auto !important;
+	 height: 20px;
+}
+
+#column1 li, #column2 li, #column3 li, #column4 li, #column5 li, #column6 li, {
+	display: block;
+	margin: 30;
+	padding: 10;
+}
+
+#column1 li img.handle, #column2 li img.handle, #column3 li img.handle, #column4 li img.handle, #column5 li img.handle, #column6 li img.handle, {
+	cursor: ns-resize;
+}
+.state-highlight { background:#FFC; height:20px;}
+.floatfix { overflow:hidden; }
