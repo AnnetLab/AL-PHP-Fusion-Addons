@@ -19,4 +19,13 @@ List of addons:
  10. **AL Tourney** - simple tourney system for your site with bracket, registration, confirmation, etc (pro in this, if need - mail me)
  11. **AL uLogin** - openid registration for pf via ulogin.ru 
 
+**ABOUT**
+==========
+My surviving developments. Use at your own risk. The efficiency of these particular versions are not guaranteed :\
+
+**LICENSE**
+===========
+Distributed under the MIT license
+
+
   [1]: http://annetlab.ru/
