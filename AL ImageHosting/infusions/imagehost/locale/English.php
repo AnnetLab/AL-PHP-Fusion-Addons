@@ -1,0 +1,52 @@
+<?php
+
+ $locale['i01'] = "Settings";
+ $locale['i02'] = "Upload access level:";
+ $locale['i03'] = "Guest";
+ $locale['i04'] = "User";
+ $locale['i05'] = "Administrator";
+ $locale['i06'] = "Superadministrator";
+ $locale['i07'] = "Save";
+ $locale['i10'] = "Oops... You can't upload images";
+ $locale['i12'] = "Images"; 
+ $locale['i13'] = "Users";
+ $locale['i14'] = "My images";
+ $locale['i15'] = "Upload";
+ $locale['i11'] = "Upload image";
+ $locale['i16'] = "1. Choose file";
+ $locale['i17'] = "2. Choose size";
+ $locale['i18'] = "Resize:";
+ $locale['i19'] = "3. Start upload";
+ $locale['i20'] = "File permissions:<br />- size less than 1.5mb;<br />- proportions max 2400x2000px;<br />- types .gif, .jpg, .png.";
+ $locale['i21'] = "Will be created:<br />- original;<br />- preview 150x150;<br />- choosed resized."; 
+ $locale['i22'] = "Error! Too big file..";
+ $locale['i23'] = "Error! Incorrect filetype.";
+ $locale['i24'] = "Error! Too big proportions.";
+ $locale['i25'] = "Error! DB do not response.";
+ $locale['i26'] = "Error! Not uploaded. Try again.";
+ $locale['i27'] = "Image view"; 
+ $locale['i28'] = ". Views: ";
+ $locale['i29'] = "Guest";
+ $locale['i30'] = "all user's images";
+ $locale['i31'] = "Uploader: "; 
+ $locale['i32'] = "Original size: ";
+ $locale['i33'] = "Zoom";
+ $locale['i34'] = "Delete";
+ $locale['i37'] = "<strong>Use this BB-codes for your forum or blog</strong>"; 
+ $locale['i38'] = "BB-Code (original):";
+ $locale['i39'] = "BB-Code (preview):";
+ $locale['i40'] = "BB-Code ";
+ $locale['i41'] = "<strong>Use this HTML on your ite</strong>"; 
+ $locale['i42'] = "HTML (original): ";
+ $locale['i43'] = "HTML (previe): ";
+ $locale['i44'] = "HTML ";
+ $locale['i45'] = "<strong>Direct links to image</strong>"; 
+ $locale['i46'] = "Original:";
+ $locale['i47'] = "Preview:";
+ $locale['i48'] = "Page:";
+ $locale['i50'] = "Users"; 
+ $locale['i51'] = "All images"; 
+ $locale['i52'] = "No images..."; 
+ $locale['i53'] = "Images of user "; 
+
+?>
