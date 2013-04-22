@@ -1,0 +1,32 @@
+.uidentity {
+font-size: 24px; color: #1BAFE0;
+}
+.uimg {
+margin-bottom: -4px;
+width:24px;height:24px;
+}
+.udiv {
+width:350px;text-align:center;
+font-size: 15px;
+}
+.ua {
+color: #1BAFE0; 
+}
+.ubutton {
+background-color: #1BAFE0;
+color: #fff;
+/*height:20px;*/
+border:1px #1BAFE0 solid;
+}
+.utextbox {
+border: 1px #DEE2E3 solid;
+height: 20px;
+}
+.ucap {
+font-size: 24px; color: #1BBF33; 
+margin-top:0px;margin-bottom:-10px;
+}
+.udiv hr {
+border-top:0;border-left:0;borer-right:0;
+border-bottom: 1px #DEE2E3 solid; 
+}
