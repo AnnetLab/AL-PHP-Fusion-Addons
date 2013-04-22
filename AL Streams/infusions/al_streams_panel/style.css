@@ -1,0 +1,10 @@
+#alstrp-list li {
+list-style-type: none;
+display: block;
+width:100%;
+text-align: center;
+}
+ul#alstrp-list {
+	padding: 0;
+	margin: 0;
+}
