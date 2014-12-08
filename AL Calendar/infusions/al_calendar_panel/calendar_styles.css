@@ -1,0 +1,75 @@
+.calendar {
+    vertical-align: top;
+}
+.dof-tbl-b {
+    padding: 5px;
+    background-color: #00e6ff;
+    color: #007ccc;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #fff;
+}
+.dof-tbl-v {
+    padding: 5px;
+    background-color: #ffbeb2;
+    color: #cc5c69;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #fff;
+}
+dof-tbl1-event-v {
+    border: 1px solid #ffbeb2;
+}
+.dof-tbl1-event-b {
+    border: 1px solid #00e6ff;
+}
+.dof-tbl1-v {
+    padding: 5px;
+    background-color: rgb(255, 215, 200);
+    height: 50px;
+}
+.dof-tbl1-b {
+    padding: 5px;
+    background-color: #1afdff;
+    height: 50px;
+}
+.dof-tbl-none {
+    padding: 5px;
+    background-color: #fff;
+}
+span.day-num {
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #fff;
+}
+span.day-num.b {
+    color: #007ccc;
+}
+span.day-num.v {
+    color: #cc5c69;
+}
+.dof-current {
+    border: 1px solid #666;
+}
+.td-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.event-confirmed {
+    color: #0f0f0f;
+}
+.event-non-confirmed {
+    color: #ccc;
+}
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    /* Если хочешь чтоб обрезанный текст заканчивался тремя точками - раскомментируй ниже */
+    /*text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-binding: url('ellipsis.xml#ellipsis');*/
+}
+
+
