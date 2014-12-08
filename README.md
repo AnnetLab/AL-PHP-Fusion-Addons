@@ -18,6 +18,10 @@ List of addons:
  9. **AL Streams** - streams catalog  with ajax loading, supports justin/twitch, owned.tv, cybergame.tv, regame.tv do not work as i remember :\
  10. **AL Tourney** - simple tourney system for your site with bracket, registration, confirmation, etc (pro in this, if need - mail me)
  11. **AL uLogin** - openid registration for pf via ulogin.ru 
+ 12. **AL Blog** - simple blog system with cats, user field and admin approving
+ 13. **AL Calendar** - Events calendar
+ 14. **AL Catalog** - Simple catalog
+ 15. **AL Rent Calendar** - rent reservation based on photogalleries
 
 **ABOUT**
 ==========
