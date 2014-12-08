@@ -1,0 +1,106 @@
+.calendar-table {
+    /*display: inline-block;*/
+    float: left;
+    margin-left: 50px;
+}
+.calendar-table:first-child {
+    margin-left: 0;
+}
+.calendar-table .calendar-cap {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+.calendar-table .calendar-tr {
+    height: 25px;
+    color: #ccc;
+}
+.calendar-table .calendar-td {
+    width: 25px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+}
+.calendar-table .calendar-td.null {
+
+}
+.calendar-table .calendar-td.type-none {
+    background-color: #9edea6;
+    color: #005C11;
+}
+.calendar-table .calendar-td.special {
+    border: 1px solid #404040;
+}
+.calendar-table .calendar-td.type1 {
+    color: #3d3d3d;
+    background: url('fb.png') 0 0 no-repeat #9edea6 ;
+}
+.calendar-table .calendar-td.type2 {
+    background-color: #ffa1ba;
+    color: #8E3250;
+}
+.calendar-table .calendar-td.type3 {
+    background: url('fb2.png') 0 0 no-repeat #9edea6 ;
+    color: #3d3d3d;
+}
+.calendar-nav {
+    cursor: pointer;
+    padding: 5px;
+    width: 50px;
+    font-size: 15px;
+}
+.calendar-nav-container {
+    width: 90%;
+    margin: 0 auto;
+}
+.calendar-nav-container .calendar-nav-prev {
+    float: left;
+}
+.calendar-nav-container .calendar-nav-next {
+    float: right;
+}
+.calendar-map {
+    width: 600px;
+    margin: 20px auto;
+}
+.calendar-map .calendar-map-item {
+    width: 150px;
+    float: left;
+}
+.calendar-map .calendar-map-item .calendar-map-item-icon {
+    width: 25px;
+    height: 25px;
+    float: left;
+    border: 1px solid #404040;
+}
+.calendar-map .calendar-map-item .calendar-map-item-icon.calendar-map-item-icon-type1 {
+    background-color: #9edea6;
+}
+.calendar-map .calendar-map-item .calendar-map-item-icon.calendar-map-item-icon-type2 {
+    background-color: #ffa1ba;
+}
+.calendar-map .calendar-map-item .calendar-map-item-icon.calendar-map-item-icon-type3 {
+    background: url('fb.png') 0 0 no-repeat transparent ;
+}
+.calendar-map .calendar-map-item .calendar-map-item-icon.calendar-map-item-icon-type4 {
+    background: url('fb2.png') 0 0 no-repeat transparent ;
+}
+
+.calendar-map .calendar-map-item .calendar-map-item-desc {
+    margin-left: 35px;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.calendar-page {
+    width:700px;
+    margin: 0 auto;
+}
+.calendar-day-cap {
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: #ccc;
+    height: 25px;
+}
+
